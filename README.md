@@ -103,32 +103,3 @@ Próximos passos possíveis:
 * Realizar tuning de hiperparâmetros
 * Implementar balanceamento (oversampling/undersampling)
 * Implantar o modelo em ambiente de teste ou produção
-
-## 8. Requisitos
-
-* Python 3.8+
-* pandas, scikit-learn, seaborn, matplotlib
-
-## 9. Como Executar
-
-Clone este repositório e execute o notebook:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
-jupyter notebook
-```
-
----
-
-**Autor:** \[Seu Nome]
-**Contato:** \[[seuemail@exemplo.com](mailto:seuemail@exemplo.com)]
-
-```
-
----
-
-Se quiser, posso salvar isso em `.md` ou `.pdf` e preparar a estrutura do repositório GitHub (com pastas `/data`, `/notebooks`, `/src`, etc.).
-
-Deseja isso também?
-```
