@@ -1,8 +1,3 @@
-Aqui está o conteúdo completo do `README.md` para o seu projeto. Basta copiar e colar no seu repositório GitHub ou converter para PDF, se preferir:
-
----
-
-````markdown
 # Previsão de Inadimplência com Machine Learning
 
 ## 1. Problema
